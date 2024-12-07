@@ -33,7 +33,8 @@ BFS and DFS for exploring networks, Dijkstra’s and Bellman-Ford for shortest p
 ## **Project Introduction: Aarohan – A Smart City**
 
 ### **Overview**
-Welcome to **Aarohan**, an innovative smart city development project spanning **1,500 square kilometers** amidst breathtaking hills and mountains. With a budget of **₹15,000 crores**, this futuristic city is designed to be a sustainable, eco-friendly urban marvel accommodating **1 million residents**.
+Our team is leading the charge on developing a 1,500-square-kilometer smart city named Aarohan, surrounded by hills and mountains. With a projected population of 1 million and a ₹15,000 crore budget, the project combines advanced technology, sustainable practices, and innovative urban design to create a modern, eco-friendly community. The initiative showcases your team’s dedication to crafting a forward-thinking urban environment that integrates nature, technology, and efficient infrastructure.
+
 
 ### **Problem Space and Insights**
 This project stems from the need for a harmonious blend of **nature, technology, and sustainability**. By analyzing white papers and global trends in urban development, we identified key challenges such as:
