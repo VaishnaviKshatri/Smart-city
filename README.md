@@ -25,10 +25,10 @@ BFS and DFS for exploring networks, Dijkstra’s and Bellman-Ford for shortest p
 
 
 ### **Real-Life Applications**
-These concepts are directly applicable to problems like:
-- Navigation systems (shortest path algorithms).
-- Text search engines (pattern matching).
-- Data organization in databases (efficient tree structures).
+- Using BFS and DFS for network traversal and shortest path calculations.  
+- Implementing Binary Search Trees and Tries for efficient data retrieval.  
+- Applying Dijkstra’s and Prim’s algorithms for route optimization in transportation.  
+- Utilizing pattern-matching algorithms in text processing and DNA sequencing. 
 
 ---
 
