@@ -1,4 +1,4 @@
-# **DAA Course and Aarohan Project**
+# **DAA Course**
 
 ---
 
@@ -6,14 +6,23 @@
 
 ### **Course Introduction**
 
-The **Design and Analysis of Algorithms (DAA)** course focuses on mastering the art of developing efficient algorithms while analyzing their complexities. It provides a deep dive into foundational concepts such as **iterations, backtracking, recursion**, and explores advanced data structures and algorithms.
+The "Design and Analysis of Algorithms" course dives into the basics of creating and improving algorithms to tackle real-world problems. It focuses on how to evaluate their performance, looking at time and space complexity to ensure they run efficiently. We will pick up practical skills for designing and refining algorithms, making it easier to solve tricky computational challenges.
 
 ### **What We've Learned**
-Our learning journey has been divided into:
-- **Foundations**: Understanding recursion and iterative solutions.
-- **Trees**: Binary Search Trees, AVL Trees, Red-Black Trees, and more.
-- **Graphs**: Algorithms like Dijkstra's, Prim's, and Kruskal's for real-world applications.
-- **Advanced Algorithms**: Sorting, searching, and pattern-matching algorithms.
+-Our learning journey has been divided into:
+
+-Trees and Applications:
+Binary Search Trees, AVL Trees, 2-3 Trees, and Red-Black Trees for organizing data.
+
+-Array Query Algorithms:
+Fenwick Tree, Sparse Table, and Look-up Table for efficient range queries and data processing.
+
+-Sorting and Searching:
+Quick Sort, Merge Sort, Heap Sort, and Binary Search to organize and find data quickly.
+
+-Graph Algorithms:
+BFS and DFS for exploring networks, Dijkstra’s and Bellman-Ford for shortest paths, and Prim’s and Kruskal’s for connecting nodes efficiently.
+
 
 ### **Real-Life Applications**
 These concepts are directly applicable to problems like:
