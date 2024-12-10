@@ -84,7 +84,7 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 ---
 
 ## **Individual pages**
--Shreya
+-Shreya [click here](https://shreya-301.github.io/SMART-CITY-/)<br>
 
 
 -Vaishnavi [Click here](https://vaishnavikshatri.github.io/DAA--PROJECT-/)<br>
