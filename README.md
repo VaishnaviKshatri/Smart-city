@@ -80,13 +80,13 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 
 
 ## **Individual pages**
--301
+-301[Click here]
 
 
 -320
 
 
--327-https://01fe23bcs144.github.io/DAA-project/
+-327[Click here](https://01fe23bcs144.github.io/DAA-project/)<br>
 
 
 
@@ -94,6 +94,7 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 
 
 ---
+
 
 
 > "Cities are the greatest creation of humanity, and they hold the key to solving the world’s most pressing challenges."  
