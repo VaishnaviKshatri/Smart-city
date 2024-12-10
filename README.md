@@ -77,7 +77,9 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
   4. Smart Healthcare Solutions  
 
 ---
-##**Individual pages**
+
+
+## **Individual pages**
 -301
 -320
 -327
