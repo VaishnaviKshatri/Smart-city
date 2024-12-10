@@ -80,17 +80,17 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 
 
 ## **Individual pages**
--301[Click here]
+-Shreya
 
 
--320
+-Vashnavi
 
 
--327[Click here](https://01fe23bcs144.github.io/DAA-project/)<br>
+-Bhgyashree[Click here](https://01fe23bcs144.github.io/DAA-project/)<br>
 
 
 
--345
+-Apeksha
 
 
 ---
