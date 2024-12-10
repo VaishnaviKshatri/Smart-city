@@ -79,6 +79,10 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 ---
 
 
+# SDG MAPPING[click here]()<be>
+
+---
+
 ## **Individual pages**
 -Shreya
 
@@ -102,7 +106,6 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 
 ---
 
-## **Repository Links**
 
 - [View Project on GitHub](https://github.com/your-repo-link)
 - [Explore Related Research Papers](https://example.com/research-paper)
