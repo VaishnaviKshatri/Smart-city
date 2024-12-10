@@ -79,7 +79,7 @@ Our findings emphasized the need for **sustainable city designs** powered by **r
 ---
 
 
-# SDG MAPPING [click here]()<be>
+# SDG MAPPING [click here](https://01fe23bcs144.github.io/SDG-mapping/)<be>
 
 ---
 
