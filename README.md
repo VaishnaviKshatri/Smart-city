@@ -1,9 +1,9 @@
 # **DAA Course Project**
 - [Course Introduction](./Course_Intro.md)
 - [Project Introduction](./project_I.md)
+- [Team Details](./team_info.md)
 - [Business cases identified](./Business_cases.md)
-
-# SDG MAPPING [click here](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+- [SDG mapping](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
 
 ---
 
