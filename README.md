@@ -4,25 +4,9 @@
 - [Team Details](./team_info.md)
 - [Business cases identified](./Business_cases.md)
 - [SDG mapping](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+- [Individual pages](./Indi.md)
 
 ---
-
-## **Individual pages**
--Shreya [click here](https://shreya-301.github.io/SMART-CITY-/)<br>
-
-
--Vaishnavi [Click here](https://vaishnavikshatri.github.io/DAA--PROJECT-/)<br>
-
-
--Bhgyashree [Click here](https://01fe23bcs144.github.io/DAA-project/)<br>
-
-
-
--Apeksha
-
-
----
-
 
 
 > "Cities are the greatest creation of humanity, and they hold the key to solving the world’s most pressing challenges."  
