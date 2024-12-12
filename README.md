@@ -1,9 +1,5 @@
-# **DAA Course**
-
----
-
-## **Home Page Introduction**
-
+# **DAA Course Project**
+- [Course Introduction](./Course_Intro.md)
 ## **Project Introduction: Aarohan – A Smart City**
 
 ### **Overview**
