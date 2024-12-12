@@ -1,6 +1,6 @@
 # **DAA Course Project**
 - [Course Introduction](./Course_Intro.md)
-- [Project Introduction](./Project_I.md)
+- [Project Introduction](./project_I.md)
 ## **Team Details**
 
 - **301 - Shreya M.D**:  
