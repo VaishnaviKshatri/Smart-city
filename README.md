@@ -8,12 +8,7 @@
 
 ---
 
-
 > "Cities are the greatest creation of humanity, and they hold the key to solving the world’s most pressing challenges."  
 > – **Enrique Peñalosa**
 
 ---
-
-
-- [View Project on GitHub](https://github.com/your-repo-link)
-- [Explore Related Research Papers](https://example.com/research-paper)
