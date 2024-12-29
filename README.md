@@ -1,6 +1,6 @@
 # **DAA Course Project**
--Sir we changed our home page to new repository.Please [Click here](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
-- [click here](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+-Sir we changed our home page to new repository.Please [Click here](https://01fe23bcs144.github.io/DAA_project/)<be>
+
 
 
 ---
