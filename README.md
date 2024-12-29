@@ -1,5 +1,5 @@
 # **DAA Course Project**
--Sir we changed our home page to new repository.Please [Click here](https://01fe23bcs144.github.io/home-page/)be>
+-Sir we changed our home page to new repository.Please [Click here](https://01fe23bcs144.github.io/home-page/)
 
 
 
