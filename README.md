@@ -1,10 +1,7 @@
 # **DAA Course Project**
-- [Course Introduction](./Course_Intro.md)
-- [Project Introduction](./project_I.md)
-- [Team Details](./team_info.md)
-- [Business cases identified](./Business_cases.md)
-- [SDG mapping](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
-- [Individual pages](./Indi.md)
+-Sir we changed our home page to new repository.Please [Click here](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+- [click here](https://01fe23bcs144.github.io/SDG-mapping-for-Business-cases/)<be>
+
 
 ---
 
